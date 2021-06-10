@@ -130,4 +130,3 @@ d 값이 t에 비해 너무 크면 p0가 d에 훨씬 민감하게 반응할 수 
 ###References
 ■ https://ko.wikipedia.org/wiki/%EB%8B%B4%EA%B8%88%EC%A7%88_%EA%B8%B0%EB%B2%95   
 ■ https://en.wikipedia.org/wiki/Simulated_annealing
-
