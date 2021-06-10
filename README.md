@@ -68,7 +68,7 @@ d 값이 t에 비해 너무 크면 p0가 d에 훨씬 민감하게 반응할 수 
 
 ## 실험
 
-주어진 함수:![CodeCogsEqn (42)](https://user-images.githubusercontent.com/82091824/121331635-07c84a00-c952-11eb-89ed-42423266a8ca.gif)
+주어진 함수: ![CodeCogsEqn (42)](https://user-images.githubusercontent.com/82091824/121331635-07c84a00-c952-11eb-89ed-42423266a8ca.gif)
 , x = 6에서 전역최적해를 가짐.
 
 ![asdr](https://user-images.githubusercontent.com/82091824/121332846-34c92c80-c953-11eb-8467-dd483d0a69d6.png)
