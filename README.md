@@ -1,5 +1,5 @@
 # 모의 담금질 기법
-***
+
 **모의 담금질 기법**(Simulated Annealing)은 해 탐색 알고리즘으로 어원은 담금질(quenching)에서 왔는데 이는 풀림(annealing)의 오역이다.
 풀림은 금속재료를 가열한 다음 조금씩 냉각해 결정을 성장시켜 그 결함을 줄이는 작업으로 모의 담금질 기법은 이 과정을 모방한다.
 높은 온도에서 해를 탐색할때는 특정한 패턴없이 자유분방하게 이루어지지만, 온도가 점차 낮아짐에따라 해 탐색이 점점 규칙적인 방식으로 이루어진다.
@@ -127,6 +127,6 @@ d 값이 t에 비해 너무 크면 p0가 d에 훨씬 민감하게 반응할 수 
 걸린시간 :
 ```
 
-###References
+### References
 ■ https://ko.wikipedia.org/wiki/%EB%8B%B4%EA%B8%88%EC%A7%88_%EA%B8%B0%EB%B2%95   
 ■ https://en.wikipedia.org/wiki/Simulated_annealing
