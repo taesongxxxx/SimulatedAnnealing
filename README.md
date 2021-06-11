@@ -27,7 +27,7 @@
 
 다음은 java에서 구현한 모의 담금질 기법의 기본적인 알고리즘이다.
 ```java 
-      for (double t = 100; t > 0.1; t = t * a){
+      for (double t = 100; t > 10; t = t * a){
             int kt = (int) t;
             for(int j=0; j<kt; j++){
                 double upper = x0 + 0.1;
