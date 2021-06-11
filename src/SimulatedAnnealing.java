@@ -24,8 +24,8 @@ public class SimulatedAnnealing{
         for (double t = 100; t > 1; t = t * a){
             int kt = (int) t;
             for(int j=0; j<kt; j++){
-                double upper = x0 + 10;
-                double lower = x0 - 10;
+                double upper = x0 + 1;
+                double lower = x0 - 1;
                 double x1 = r.nextDouble()  * (upper - lower) + lower;
                 double f1 = p.fit(x1);
 
