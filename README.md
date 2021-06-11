@@ -157,6 +157,9 @@ d 값이 t에 비해 너무 크면 p0가 d에 훨씬 민감하게 반응할 수 
 
 a 와 kt 가 낮아질때 걸리는 시간의 차이에 비해 오차율의 차이는 크지않아 a = 0.8, kt = t 를 선택함.
 
+![image](https://user-images.githubusercontent.com/82091824/121675163-03d12f00-caee-11eb-9375-71c0eb51dff6.png)
+
+
 
 ### References
 ■ https://ko.wikipedia.org/wiki/%EB%8B%B4%EA%B8%88%EC%A7%88_%EA%B8%B0%EB%B2%95   
