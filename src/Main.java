@@ -13,7 +13,7 @@ public class Main {
             }
         };
 
-        double x = sa.solve(p, 0.99);
+        double x = sa.solve(p, 0.8);
         System.out.println(x);
         System.out.println(p.fit(x));
 
