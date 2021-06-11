@@ -161,6 +161,6 @@ a 와 kt 가 낮아질때 걸린시간에 비해 오차율의 차이는 크지�
 
 
 
-### References
+### 참고자료
 ■ https://ko.wikipedia.org/wiki/%EB%8B%B4%EA%B8%88%EC%A7%88_%EA%B8%B0%EB%B2%95   
 ■ https://en.wikipedia.org/wiki/Simulated_annealing
